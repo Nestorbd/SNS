@@ -1,0 +1,43 @@
+[submodule "ACT1_1"]
+	path = ACT1_1
+	url = https://github.com/Nestorbd/Gestion-de-ficheros-en-Google-colab.git
+
+[submodule "UT2/Actividad_2_1"]
+	path = UT2/Actividad_2_1
+	url = https://github.com/Nestorbd/Analisis-de-observaciones-influyentes.git
+
+[submodule "UT3/act_3_1"]
+	path = UT3/act_3_1
+	url = https://github.com/Nestorbd/metricas-de-error.git
+
+[submodule "UT3/act_3_2"]
+	path = UT3/act_3_2
+	url = https://github.com/Nestorbd/Comparativa-clasificadores-NaiveBayes.git
+
+[submodule "UT3/act_3_3"]
+	path = UT3/act_3_3
+	url = https://github.com/Nestorbd/IRIS-con-NaiveBayes-y-Cross-Validation.git
+
+[submodule "UT3/act_3_4/Trabajo"]
+	path = UT3/act_3_4/Trabajo
+	url = https://github.com/Nestorbd/Prediction-of-Mohs-Hardness.git
+
+[submodule "UT3/act_3_5"]
+	path = UT3/act_3_5
+	url = https://github.com/Nestorbd/Clasificacion-de-vinos.git
+
+[submodule "UT3/act_3_7"]
+	path = UT3/act_3_7
+	url = https://github.com/Nestorbd/Richter-s-Predictor-Modeling-Earthquake-Damage.git
+
+[submodule "DengIA"]
+	path = DengIA
+	url = https://github.com/Nestorbd/DengIA-Competition.git
+
+[submodule "proyecto/prediction-Mohs-Hardness"]
+	path = proyecto/prediction-Mohs-Hardness
+	url = https://github.com/Nestorbd/prediction-Mohs-Hardness.git
+
+[submodule "UT4/UT_4_1"]
+	path = UT4/UT_4_1
+	url = https://github.com/Nestorbd/Segmentaci-n-de-clientes-segun-datos-bancarios.git
